@@ -2,17 +2,17 @@
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-12-07 01:45:50</sys_created_on>
-        <sys_id>5705478493477510eb4db55f7bba1038</sys_id>
+        <sys_created_on>2023-12-07 18:07:06</sys_created_on>
+        <sys_id>af756e189347b510eb4db55f7bba107a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_1259119_gest_o_0_produtos.x_1259119_gest_o_0.supervisores_role</sys_name>
+        <sys_name>x_1259119_gest_o_0_pedidos.x_1259119_gest_o_0.supervisores_role</sys_name>
         <sys_package display_value="Gestão de Inventário" source="x_1259119_gest_o_0">1b61753f937ef110eb4db55f7bba10ff</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
-        <sys_security_acl display_value="x_1259119_gest_o_0_produtos">0305cb8493477510eb4db55f7bba1082</sys_security_acl>
-        <sys_update_name>sys_security_acl_role_5705478493477510eb4db55f7bba1038</sys_update_name>
+        <sys_security_acl display_value="x_1259119_gest_o_0_pedidos">d705cb8493477510eb4db55f7bba10bc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_af756e189347b510eb4db55f7bba107a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-07 01:45:50</sys_updated_on>
+        <sys_updated_on>2023-12-07 18:07:06</sys_updated_on>
         <sys_user_role display_value="x_1259119_gest_o_0.supervisores_role" name="x_1259119_gest_o_0.supervisores_role">1941478093477510eb4db55f7bba1014</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
