@@ -26,14 +26,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-09 01:56:41</sys_created_on>
         <sys_id>202a9d7093073910eb4db55f7bba10c2</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_name>Portal de Pedidos</sys_name>
         <sys_package display_value="Gestão de Inventário" source="x_1259119_gest_o_0">1b61753f937ef110eb4db55f7bba10ff</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
         <sys_update_name>sp_portal_202a9d7093073910eb4db55f7bba10c2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-10 02:47:59</sys_updated_on>
+        <sys_updated_on>2023-12-10 15:57:53</sys_updated_on>
         <theme display_value="La Jolla">a7a6e78277002300a6e592718a10617a</theme>
         <title>Portal de Pedidos</title>
         <ts_index_group/>

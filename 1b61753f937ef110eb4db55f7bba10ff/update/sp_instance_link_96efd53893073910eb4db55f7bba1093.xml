@@ -13,25 +13,25 @@
         <roles/>
         <sc_cat_item/>
         <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
-        <short_description>Lista de todos os pedidos</short_description>
+        <short_description>Lista de todos os seus pedidos</short_description>
         <size>md</size>
         <sp_column display_value="2">92efd53893073910eb4db55f7bba108c</sp_column>
-        <sp_page display_value="sc_category">07261a2147132100ba13a5554ee49092</sp_page>
+        <sp_page display_value="pedidos">b51be15d934bb910eb4db55f7bba1087</sp_page>
         <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
         <sys_class_name>sp_instance_link</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-09 02:19:23</sys_created_on>
         <sys_id>96efd53893073910eb4db55f7bba1093</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Pedidos</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Seus pedidos</sys_name>
         <sys_package display_value="Gestão de Inventário" source="x_1259119_gest_o_0">1b61753f937ef110eb4db55f7bba10ff</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
         <sys_update_name>sp_instance_link_96efd53893073910eb4db55f7bba1093</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-10 00:18:04</sys_updated_on>
-        <title>Pedidos</title>
-        <type>url</type>
+        <sys_updated_on>2023-12-10 16:33:17</sys_updated_on>
+        <title>Seus pedidos</title>
+        <type>page</type>
         <url>https://dev213812.service-now.com/gestao-pedidos?id=list&amp;table=x_1259119_gest_o_0_pedidos&amp;sys_id=-1</url>
         <widget_parameters><![CDATA[{
 	"link_template": {

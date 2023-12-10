@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Requisicao de pedido">b8f91649938b7910eb4db55f7bba10b1</sc_cat_item>
+        <sc_category display_value="Pedido de produto">8f295609938b7910eb4db55f7bba1023</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 01:52:09</sys_created_on>
+        <sys_id>dd432a0593cb7910eb4db55f7bba109b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pedido de produto.Requisicao de pedido</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
+        <sys_update_name>sc_cat_item_category_dd432a0593cb7910eb4db55f7bba109b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 01:52:09</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</application>
+        <file_path/>
+        <instance_id>96d1f6211baef51c6a85eb9b2d4bcbf3</instance_id>
+        <instance_name>dev213812</instance_name>
+        <name>sc_cat_item_category_dd432a0593cb7910eb4db55f7bba109b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Requisicao de pedido">b8f91649938b7910eb4db55f7bba10b1</sc_cat_item><sc_category display_value="Pedido de produto">8f295609938b7910eb4db55f7bba1023</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-10 01:52:09</sys_created_on><sys_id>dd432a0593cb7910eb4db55f7bba109b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Pedido de produto.Requisicao de pedido</sys_name><sys_package/><sys_policy/><sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope><sys_update_name>sc_cat_item_category_dd432a0593cb7910eb4db55f7bba109b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-10 01:52:09</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1971447056</payload_hash>
+        <record_name>Pedido de produto.Requisicao de pedido</record_name>
+        <reverted_from/>
+        <source>e853aa0593cb7910eb4db55f7bba10d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 01:52:23</sys_created_on>
+        <sys_id>7453ea0593cb7910eb4db55f7bba1007</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c516cf38a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 01:52:23</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>b853ea055dcb7910875cf8e6440b2c06</update_guid>
+        <update_guid_history>b853ea055dcb7910875cf8e6440b2c06:-1971447056,ac53aa0565cb79104e05ed1867d8cffa:-691966585</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Pedido de produto.Requisicao de pedido">9a0021dd930bb910eb4db55f7bba102c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 15:36:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>15b8a7048f754d4ab1457dad1c357819</sys_id>
+        <sys_metadata>dd432a0593cb7910eb4db55f7bba109b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pedido de produto.Requisicao de pedido</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259119_gest_o_0">1b61753f937ef110eb4db55f7bba10ff</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
+        <sys_scope_delete display_value="">030a5eb77aa5413298d928984cba4044</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_dd432a0593cb7910eb4db55f7bba109b</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_dd432a0593cb7910eb4db55f7bba109b">7453ea0593cb7910eb4db55f7bba1007</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 15:36:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -12,10 +12,10 @@
         <kb_article/>
         <kb_category/>
         <kb_topic/>
-        <label>Solicite um novo pedido</label>
+        <label>Faça um novo pedido</label>
         <order>100</order>
         <record_script/>
-        <sc_cat_item display_value="Solicitacao de pedido">9682bec5930f7910eb4db55f7bba1010</sc_cat_item>
+        <sc_cat_item display_value="Requisicao de pedido">b8f91649938b7910eb4db55f7bba10b1</sc_cat_item>
         <sc_category/>
         <short_description/>
         <sp_page display_value="sc_cat_item">9f12251147132100ba13a5554ee490f4</sp_page>
@@ -25,14 +25,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-10 01:58:55</sys_created_on>
         <sys_id>1274a28593cb7910eb4db55f7bba1025</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Solicite um novo pedido</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Faça um novo pedido</sys_name>
         <sys_package display_value="Gestão de Inventário" source="x_1259119_gest_o_0">1b61753f937ef110eb4db55f7bba10ff</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
         <sys_update_name>sp_rectangle_menu_item_1274a28593cb7910eb4db55f7bba1025</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-10 03:11:40</sys_updated_on>
+        <sys_updated_on>2023-12-10 15:46:36</sys_updated_on>
         <table/>
         <type>sc_cat_item</type>
         <url/>

@@ -4,7 +4,7 @@
         <acls/>
         <active>true</active>
         <annotation/>
-        <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=2315000,viewActivatedIn=naturalLanguage</attributes>
+        <attributes>browserActivatedIn=firefox,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=2315000,viewActivatedIn=naturalLanguage</attributes>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from/>
@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3aca5b6093cbf510eb4db55f7bba1001</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Atualiza campo State</sys_name>
         <sys_overrides/>
         <sys_package display_value="Gestão de Inventário" source="x_1259119_gest_o_0">1b61753f937ef110eb4db55f7bba10ff</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
         <sys_update_name>sys_hub_flow_3aca5b6093cbf510eb4db55f7bba1001</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-08 20:38:12</sys_updated_on>
+        <sys_updated_on>2023-12-10 15:23:20</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=3aca5b6093cbf510eb4db55f7bba1001"/>
@@ -93,10 +93,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-08 16:47:39</sys_created_on>
         <sys_id>af0dd36493cbf510eb4db55f7bba1033</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-08 20:38:12</sys_updated_on>
+        <sys_updated_on>2023-12-10 15:23:20</sys_updated_on>
         <trigger_definition display_value="Created">798916a0c31322002841b63b12d3ae7c</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -332,10 +332,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-08 16:47:40</sys_created_on>
         <sys_id>230dd36493cbf510eb4db55f7bba105f</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-08 20:38:12</sys_updated_on>
+        <sys_updated_on>2023-12-10 15:23:20</sys_updated_on>
         <ui_id>3aed3285-cb27-430e-934e-65fb73dcc285</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=230dd36493cbf510eb4db55f7bba105f"/>
@@ -421,10 +421,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-08 16:47:40</sys_created_on>
         <sys_id>2f0dd36493cbf510eb4db55f7bba1042</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-08 20:38:12</sys_updated_on>
+        <sys_updated_on>2023-12-10 15:23:20</sys_updated_on>
         <ui_id>2793dd0c-271a-4374-8275-9e9f6ce43bb4</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=2f0dd36493cbf510eb4db55f7bba1042"/>
@@ -491,9 +491,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-08 16:47:40</sys_created_on>
         <sys_id>270dd36493cbf510eb4db55f7bba1045</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-08 16:47:40</sys_updated_on>
+        <sys_updated_on>2023-12-10 15:23:20</sys_updated_on>
         <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
         <value>ApprovesRejectsAnyG[{{static.08208f0093477510eb4db55f7bba109f}}]</value>
     </sys_element_mapping>
@@ -574,10 +574,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-08 16:47:40</sys_created_on>
         <sys_id>2f0dd36493cbf510eb4db55f7bba1057</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-08 20:38:12</sys_updated_on>
+        <sys_updated_on>2023-12-10 15:23:20</sys_updated_on>
         <ui_id>dbd1341b-8795-4222-b1fa-6bf47e822273</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=2f0dd36493cbf510eb4db55f7bba1057"/>
@@ -663,10 +663,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-08 16:47:40</sys_created_on>
         <sys_id>6f0dd36493cbf510eb4db55f7bba1065</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-08 20:38:12</sys_updated_on>
+        <sys_updated_on>2023-12-10 15:23:20</sys_updated_on>
         <ui_id>11a90c5d-df4e-4040-a31e-abcb2de3bcec</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=6f0dd36493cbf510eb4db55f7bba1065"/>
@@ -752,10 +752,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-08 17:04:09</sys_created_on>
         <sys_id>89d0ef6893cbf510eb4db55f7bba1003</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-08 20:38:12</sys_updated_on>
+        <sys_updated_on>2023-12-10 15:23:20</sys_updated_on>
         <ui_id>691f6422-c6af-4d08-af84-6f330ec8ef38</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=89d0ef6893cbf510eb4db55f7bba1003"/>
@@ -854,10 +854,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-08 16:47:39</sys_created_on>
         <sys_id>a70dd36493cbf510eb4db55f7bba103a</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-08 20:38:12</sys_updated_on>
+        <sys_updated_on>2023-12-10 15:23:20</sys_updated_on>
         <ui_id>41bc5871-64e3-4171-809e-0f4bf508c08d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=a70dd36493cbf510eb4db55f7bba103a"/>
@@ -943,10 +943,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-08 17:04:09</sys_created_on>
         <sys_id>c5d0af6893cbf510eb4db55f7bba10fc</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-08 20:38:12</sys_updated_on>
+        <sys_updated_on>2023-12-10 15:23:20</sys_updated_on>
         <ui_id>5b4e6dec-9482-4da5-b19a-63e99a41767f</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c5d0af6893cbf510eb4db55f7bba10fc"/>
@@ -1006,10 +1006,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-08 16:47:40</sys_created_on>
         <sys_id>e30dd36493cbf510eb4db55f7bba104f</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-08 20:38:12</sys_updated_on>
+        <sys_updated_on>2023-12-10 15:23:20</sys_updated_on>
         <ui_id>38868857-5e54-4b4f-8501-1a1fcf62e456</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=e30dd36493cbf510eb4db55f7bba104f"/>
@@ -1104,10 +1104,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-08 20:37:59</sys_created_on>
         <sys_id>15c1d0b093cff510eb4db55f7bba1056</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-08 20:38:12</sys_updated_on>
+        <sys_updated_on>2023-12-10 15:23:20</sys_updated_on>
         <ui_id>f72ec1ff-2c4e-4190-a488-eae01b607987</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1137,10 +1137,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-08 16:47:40</sys_created_on>
         <sys_id>ab0dd36493cbf510eb4db55f7bba1051</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-08 20:38:12</sys_updated_on>
+        <sys_updated_on>2023-12-10 15:23:20</sys_updated_on>
         <ui_id>df9f18f3-6e82-4a2b-af13-cc705c882345</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1171,10 +1171,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-08 16:47:40</sys_created_on>
         <sys_id>e30dd36493cbf510eb4db55f7bba1047</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-08 20:38:12</sys_updated_on>
+        <sys_updated_on>2023-12-10 15:23:20</sys_updated_on>
         <ui_id>96f5d7fe-2e69-4936-a19b-4b66b816e332</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
