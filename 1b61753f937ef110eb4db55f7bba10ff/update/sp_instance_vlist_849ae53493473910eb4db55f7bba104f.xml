@@ -7,7 +7,7 @@
         <display_field>item</display_field>
         <field_list/>
         <filter/>
-        <glyph>th-list</glyph>
+        <glyph>barcode</glyph>
         <id/>
         <maximum_entries>10</maximum_entries>
         <order>2</order>
@@ -23,16 +23,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-09 03:05:55</sys_created_on>
         <sys_id>849ae53493473910eb4db55f7bba104f</sys_id>
-        <sys_mod_count>11</sys_mod_count>
-        <sys_name/>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Produtos no estoque</sys_name>
         <sys_package display_value="Gestão de Inventário" source="x_1259119_gest_o_0">1b61753f937ef110eb4db55f7bba10ff</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
         <sys_update_name>sp_instance_vlist_849ae53493473910eb4db55f7bba104f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-09 03:34:46</sys_updated_on>
+        <sys_updated_on>2023-12-10 00:30:31</sys_updated_on>
         <table>x_1259119_gest_o_0_produtos</table>
-        <title/>
+        <title>Produtos no estoque</title>
         <url/>
         <widget_parameters><![CDATA[{
 	"always_show": {

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item">
+    <sp_rectangle_menu_item action="DELETE">
+        <active>true</active>
+        <color>default</color>
+        <condition/>
+        <display_1/>
+        <display_2/>
+        <display_date/>
+        <filter/>
+        <glyph>shopping-basket</glyph>
+        <hint/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <label>Novo Pedido</label>
+        <order>100</order>
+        <record_script/>
+        <sc_cat_item/>
+        <sc_category display_value="Pedido de produto">8f295609938b7910eb4db55f7bba1023</sc_category>
+        <short_description/>
+        <sp_page display_value="sc_category">07261a2147132100ba13a5554ee49092</sp_page>
+        <sp_rectangle_menu display_value="Menu da Gestão">79276d3093473910eb4db55f7bba1095</sp_rectangle_menu>
+        <sp_rectangle_menu_item/>
+        <sys_class_name>sp_rectangle_menu_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 02:54:47</sys_created_on>
+        <sys_id>8867617093473910eb4db55f7bba10cb</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Novo Pedido</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259119_gest_o_0">1b61753f937ef110eb4db55f7bba10ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
+        <sys_update_name>sp_rectangle_menu_item_8867617093473910eb4db55f7bba10cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 02:20:37</sys_updated_on>
+        <table/>
+        <type>sc_category</type>
+        <url>https://dev213812.service-now.com/gestao-pedidos?id=form&amp;is_new_order=true&amp;table=x_1259119_gest_o_0_pedidos&amp;sys_id=-1</url>
+        <url_target/>
+    </sp_rectangle_menu_item>
+    <sys_translated_text action="DELETE" query="documentkey=8867617093473910eb4db55f7bba10cb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</application>
+        <file_path/>
+        <instance_id>96d1f6211baef51c6a85eb9b2d4bcbf3</instance_id>
+        <instance_name>dev213812</instance_name>
+        <name>sp_rectangle_menu_item_8867617093473910eb4db55f7bba10cb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item"><sp_rectangle_menu_item action="INSERT_OR_UPDATE"><active>true</active><color>default</color><condition/><display_1/><display_2/><display_date/><filter/><glyph>shopping-basket</glyph><hint/><kb_article/><kb_category/><kb_topic/><label>Novo Pedido</label><order>100</order><record_script/><sc_cat_item/><sc_category display_value="Pedido de produto">8f295609938b7910eb4db55f7bba1023</sc_category><short_description/><sp_page display_value="sc_category">07261a2147132100ba13a5554ee49092</sp_page><sp_rectangle_menu display_value="Menu da Gestão">79276d3093473910eb4db55f7bba1095</sp_rectangle_menu><sp_rectangle_menu_item/><sys_class_name>sp_rectangle_menu_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-09 02:54:47</sys_created_on><sys_id>8867617093473910eb4db55f7bba10cb</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Novo Pedido</sys_name><sys_package display_value="Gestão de Inventário" source="x_1259119_gest_o_0">1b61753f937ef110eb4db55f7bba10ff</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope><sys_update_name>sp_rectangle_menu_item_8867617093473910eb4db55f7bba10cb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-10 02:20:37</sys_updated_on><table/><type>sc_category</type><url>https://dev213812.service-now.com/gestao-pedidos?id=form&amp;is_new_order=true&amp;table=x_1259119_gest_o_0_pedidos&amp;sys_id=-1</url><url_target/></sp_rectangle_menu_item><sys_translated_text action="delete_multiple" query="documentkey=8867617093473910eb4db55f7bba10cb"/></record_update>]]></payload>
+        <payload_hash>-1039338156</payload_hash>
+        <record_name>Novo Pedido</record_name>
+        <reverted_from/>
+        <source>866e3e4093077510eb4db55f7bba10d8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 02:20:37</sys_created_on>
+        <sys_id>16c9660d93cb7910eb4db55f7bba1018</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c5186ccc20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 02:20:37</sys_updated_on>
+        <type>Menu Item</type>
+        <update_guid>9ac9660da8cb7910b9371afda039d417</update_guid>
+        <update_guid_history>9ac9660da8cb7910b9371afda039d417:-1039338156,4ca9e60d1ecb7910856efdf6d1ac0110:900482794,8d086130d24739104fa44f4e9dd3746f:381218378</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Novo Pedido">2c607a05930f7910eb4db55f7bba1051</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 02:49:27</sys_created_on>
+        <sys_db_object display_value="" name="sp_rectangle_menu_item">sp_rectangle_menu_item</sys_db_object>
+        <sys_id>1afe9ee20f3441e0bf8da68c345ffe40</sys_id>
+        <sys_metadata>8867617093473910eb4db55f7bba10cb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Novo Pedido</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259119_gest_o_0">1b61753f937ef110eb4db55f7bba10ff</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
+        <sys_scope_delete display_value="">030a5eb77aa5413298d928984cba4044</sys_scope_delete>
+        <sys_update_name>sp_rectangle_menu_item_8867617093473910eb4db55f7bba10cb</sys_update_name>
+        <sys_update_version display_value="sp_rectangle_menu_item_8867617093473910eb4db55f7bba10cb">16c9660d93cb7910eb4db55f7bba1018</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 02:49:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
