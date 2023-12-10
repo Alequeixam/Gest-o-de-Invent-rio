@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Solicitacao de pedido">9682bec5930f7910eb4db55f7bba1010</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 03:00:08</sys_created_on>
+        <sys_id>c9d2b609930f7910eb4db55f7bba1073</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requisicao de pedido.Analistas e Supervisores</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_c9d2b609930f7910eb4db55f7bba1073</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 03:00:08</sys_updated_on>
+        <user_criteria display_value="Analistas e Supervisores">6cdd2641930f7910eb4db55f7bba1014</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>
