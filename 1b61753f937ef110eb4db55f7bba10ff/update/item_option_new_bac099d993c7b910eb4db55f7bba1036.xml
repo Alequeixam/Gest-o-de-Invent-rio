@@ -21,7 +21,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field/>
+        <field>assigned_to</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -38,10 +38,10 @@
         <macro/>
         <macroponent/>
         <mandatory>true</mandatory>
-        <map_to_field>false</map_to_field>
+        <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>atribua_solicitante</name>
+        <name>assigned_to</name>
         <order>100</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
@@ -77,14 +77,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-10 14:31:52</sys_created_on>
         <sys_id>bac099d993c7b910eb4db55f7bba1036</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>Atribua um solicitante</sys_name>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>assigned_to</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
         <sys_update_name>item_option_new_bac099d993c7b910eb4db55f7bba1036</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-10 15:44:51</sys_updated_on>
+        <sys_updated_on>2023-12-10 16:44:55</sys_updated_on>
         <table/>
         <tooltip/>
         <type>31</type>
