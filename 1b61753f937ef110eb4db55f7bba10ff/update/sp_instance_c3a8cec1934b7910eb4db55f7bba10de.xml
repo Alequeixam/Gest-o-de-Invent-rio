@@ -4,34 +4,38 @@
         <class_name/>
         <color>default</color>
         <css/>
-        <glyph/>
+        <glyph>check</glyph>
         <id/>
         <order>1</order>
-        <roles/>
+        <roles>x_1259119_gest_o_0.supervisores_role,approver_user</roles>
         <short_description/>
         <size>md</size>
-        <sp_column display_value="2">92efd53893073910eb4db55f7bba108c</sp_column>
+        <sp_column display_value="3">deefd53893073910eb4db55f7bba1090</sp_column>
         <sp_widget display_value="Approvals">f37aa302cb70020000f8d856634c9cfc</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-12-09 02:19:23</sys_created_on>
-        <sys_id>eaefd53893073910eb4db55f7bba10b0</sys_id>
+        <sys_created_on>2023-12-09 23:55:57</sys_created_on>
+        <sys_id>c3a8cec1934b7910eb4db55f7bba10de</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>My Approvals</sys_name>
+        <sys_name/>
         <sys_package display_value="Gestão de Inventário" source="x_1259119_gest_o_0">1b61753f937ef110eb4db55f7bba10ff</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">1b61753f937ef110eb4db55f7bba10ff</sys_scope>
-        <sys_update_name>sp_instance_eaefd53893073910eb4db55f7bba10b0</sys_update_name>
+        <sys_update_name>sp_instance_c3a8cec1934b7910eb4db55f7bba10de</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-09 03:03:36</sys_updated_on>
-        <title>My Approvals</title>
+        <sys_updated_on>2023-12-10 00:05:35</sys_updated_on>
+        <title/>
         <url/>
         <widget_parameters><![CDATA[{
 	"portal": {
 		"value": "true",
 		"displayValue": "true"
+	},
+	"max_number_of_elements_shown_on_the_list": {
+		"value": null,
+		"displayValue": ""
 	}
 }]]></widget_parameters>
     </sp_instance>
-    <sys_translated_text action="delete_multiple" query="documentkey=eaefd53893073910eb4db55f7bba10b0"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=c3a8cec1934b7910eb4db55f7bba10de"/>
 </record_update>
